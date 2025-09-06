@@ -28,6 +28,6 @@ The core of this pattern is the rejection of a specific price level. The bulls p
 
 The Tweezer Top is a pattern that demonstrates resistance and can incorporate other bearish signals.
 
-- **Tweezer Bottoms:** This is the direct bullish counterpart. [[Tweezer Bottoms]] form at the end of a downtrend with two or more candles having matching lows, indicating strong support.
-- **Incorporating other patterns:** A Tweezer Top is more powerful if the candles forming it are themselves bearish patterns. For example, a bullish candle followed by a [[Hanging Man]] that has the same high is a very strong Tweezer Top. Similarly, a Tweezer Top where the second candle is a [[Shooting Star]] or part of a [[Bearish Engulfing Pattern]] is also a very reliable signal.
+- **Tweezer Bottoms:** This is the direct bullish counterpart. [[Tweezer_Bottoms]] form at the end of a downtrend with two or more candles having matching lows, indicating strong support.
+- **Incorporating other patterns:** A Tweezer Top is more powerful if the candles forming it are themselves bearish patterns. For example, a bullish candle followed by a [[Hanging Man]] that has the same high is a very strong Tweezer Top. Similarly, a Tweezer Top where the second candle is a [[Shooting_Star]] or part of a [[Bearish_Engulfing_Pattern]] is also a very reliable signal.
 - **Double Top:** A Tweezer Top can be the very beginning of a larger Western chart pattern like a Double Top, where the two peaks of the pattern are at the same price level.

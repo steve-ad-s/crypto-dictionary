@@ -30,6 +30,6 @@ The story is one of a trend exhausting itself, pausing for a moment of indecisio
 
 The Three Inside Down pattern is a confirmed Bearish Harami.
 
-- **Three Inside Up:** This is the direct bullish counterpart. The [[Three Inside Up]] is a confirmed Bullish Harami that appears at the bottom of a downtrend and signals a bullish reversal.
-- **Bearish Harami:** The Three Inside Down pattern's first two candles form the [[Bearish Harami]]. The Harami is a warning of a potential top; the Three Inside Down is the confirmation.
-- **Evening Star:** This pattern is psychologically similar to the [[Evening Star]]. Both are three-candle bearish reversal patterns that show a transition from bullishness to indecision to bearishness. The Evening Star is often considered slightly stronger because its middle candle gaps up.
+- **Three Inside Up:** This is the direct bullish counterpart. The [[Three_Inside_Up]] is a confirmed Bullish Harami that appears at the bottom of a downtrend and signals a bullish reversal.
+- **Bearish Harami:** The Three Inside Down pattern's first two candles form the [[Bearish_Harami]]. The Harami is a warning of a potential top; the Three Inside Down is the confirmation.
+- **Evening Star:** This pattern is psychologically similar to the [[Evening_Star]]. Both are three-candle bearish reversal patterns that show a transition from bullishness to indecision to bearishness. The Evening Star is often considered slightly stronger because its middle candle gaps up.

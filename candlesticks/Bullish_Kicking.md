@@ -1,6 +1,6 @@
 # Bullish Kicking
 
-![[../images/Kicking (Bullish & Bearish.png)]]
+![[../images/Kicking (Bullish & Bearish).png]]
 
 The Bullish Kicking pattern is a very rare but extremely powerful two-candle bullish reversal pattern. It signals a sudden and dramatic shift in market sentiment from bearish to bullish.
 
@@ -26,6 +26,6 @@ This pattern represents a violent reversal. The complete control exhibited by th
 
 The Bullish Kicking pattern is one of the strongest reversal signals in candlestick analysis, built from the most decisive single candles.
 
-- **Bearish Kicking:** This is the direct bearish counterpart. The [[Bearish Kicking]] pattern consists of a Bullish Marubozu followed by a gap down to a Bearish Marubozu, signaling a violent bearish reversal.
+- **Bearish Kicking:** This is the direct bearish counterpart. The [[Bearish_Kicking]] pattern consists of a Bullish Marubozu followed by a gap down to a Bearish Marubozu, signaling a violent bearish reversal.
 - **Marubozu:** The pattern is composed of two [[Marubozu]] candles. This is what gives it its power. The lack of shadows on both candles shows that the sentiment was completely one-sided on both days, but in opposite directions.
 - **Separating Lines:** A Bullish Separating Lines pattern is similar in that it involves a Bearish Marubozu followed by a Bullish Marubozu. However, in Separating Lines, the two candles open at the same level; there is no gap. The Kicking pattern's gap makes it a much stronger reversal signal.

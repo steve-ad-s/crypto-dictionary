@@ -1,6 +1,6 @@
 # Bearish Engulfing Pattern
 
-![[../images/Figure - 3.25 - Bearish Engulfing Pattern.png]]
+![[../images/Figure 3.25 - Bearish Engulfing Pattern.png]]
 
 The Bearish Engulfing pattern is a two-candle bearish reversal pattern that signals a potential top in the market and a shift in momentum from buyers to sellers.
 
@@ -28,7 +28,7 @@ This price action demonstrates that although buyers were in control at the open,
 
 The Bearish Engulfing pattern is one of the most classic and reliable bearish reversal signals.
 
-- **Bullish Engulfing Pattern:** This is the direct bullish counterpart. The [[Bullish Engulfing Pattern]] appears at the bottom of a downtrend and signals a bullish reversal.
-- **Dark Cloud Cover:** The Dark Cloud Cover is a similar but less powerful bearish reversal pattern. In a Dark Cloud Cover, the second bearish candle closes below the midpoint of the first bullish candle, but it does not fully engulf it.
-- **Confirmation for other patterns:** A Bearish Engulfing pattern can serve as strong confirmation for a preceding single-candle bearish signal, such as a [[Shooting Star]] or a [[Hanging Man]].
-- **Follow-through:** A Bearish Engulfing pattern can be the first two candles of a [[Three Black Crows]] pattern, which would provide very strong confirmation of a new downtrend.
+- **Bullish Engulfing Pattern:** This is the direct bullish counterpart. The [[Bullish_Engulfing_Pattern]] appears at the bottom of a downtrend and signals a bullish reversal.
+- **Dark Cloud Cover:** The [[Dark_Cloud_Cover]] is a similar but less powerful bearish reversal pattern. In a Dark Cloud Cover, the second bearish candle closes below the midpoint of the first bullish candle, but it does not fully engulf it.
+- **Confirmation for other patterns:** A Bearish Engulfing pattern can serve as strong confirmation for a preceding single-candle bearish signal, such as a [[Shooting_Star]] or a [[Hanging_Man]].
+- **Follow-through:** A Bearish Engulfing pattern can be the first two candles of a [[Three_Black_Crows]] pattern, which would provide very strong confirmation of a new downtrend.

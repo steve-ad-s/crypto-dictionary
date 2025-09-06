@@ -28,6 +28,6 @@ This pattern tells a story of a decisive and sustained takeover by the bears:
 
 The Three Black Crows pattern is a confirmation pattern that often follows other, earlier signs of a top.
 
-- **Three White Soldiers:** This is the direct bullish counterpart. [[Three White Soldiers]] is a powerful bullish reversal pattern.
-- **Confirmation for other patterns:** The Three Black Crows can act as a powerful confirmation for preceding, more subtle bearish reversal signals like a [[Shooting Star]], a [[Hanging Man]], or a [[Bearish Engulfing Pattern]]. The appearance of the crows after one of these patterns greatly strengthens the bearish case.
+- **Three White Soldiers:** This is the direct bullish counterpart. [[Three_White_Soldiers]] is a powerful bullish reversal pattern.
+- **Confirmation for other patterns:** The Three Black Crows can act as a powerful confirmation for preceding, more subtle bearish reversal signals like a [[Shooting_Star]], a [[Hanging_Man]], or a [[Bearish_Engulfing_Pattern]]. The appearance of the crows after one of these patterns greatly strengthens the bearish case.
 - **Identical Three Crows:** A variation of this pattern is the **Identical Three Crows**. This is an even more bearish version where each of the three candles opens at or very near the close of the previous candle, showing no bullish pullback whatsoever during the session opens.

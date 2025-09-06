@@ -26,6 +26,6 @@ For a candle to be a valid Hammer, the following conditions should be met:
 
 The Hammer is part of the family of single-candle patterns with long shadows. Its relationships are defined by its appearance and its location in a trend.
 
-- **Hanging Man:** A Hammer in an uptrend becomes a Hanging Man. They are visually identical but have opposite implications due to the preceding trend.
-- **Inverted Hammer & Shooting Star:** These are the "upside-down" versions of the Hammer. An Inverted Hammer is a potential bullish reversal signal (like the Hammer), while a Shooting Star is a bearish reversal signal.
-- **Confirmation:** A Hammer is often followed by a confirmation candle on the next period. A strong bullish candle, like a [[Bullish Engulfing Pattern]] or a [[Marubozu]], can confirm the reversal. The absence of a strong follow-up might indicate a weak reversal.
+- **Hanging Man:** A Hammer in an uptrend becomes a [[Hanging Man]]. They are visually identical but have opposite implications due to the preceding trend.
+- **Inverted Hammer & Shooting Star:** These are the "upside-down" versions of the Hammer. An [[Inverted Hammer]] is a potential bullish reversal signal (like the Hammer), while a [[Shooting Star]] is a bearish reversal signal.
+- **Confirmation:** A Hammer is often followed by a confirmation candle on the next period. A strong bullish candle, like a [[Bullish_Engulfing_Pattern]] or a [[Marubozu]], can confirm the reversal. The absence of a strong follow-up might indicate a weak reversal.

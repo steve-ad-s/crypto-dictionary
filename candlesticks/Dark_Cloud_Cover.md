@@ -29,6 +29,6 @@ This price action shows that despite a strong bullish open, sellers overwhelmed 
 
 The Dark Cloud Cover is a classic bearish reversal signal and has important relationships with other patterns.
 
-- **Piercing Pattern:** This is the direct bullish counterpart to the Dark Cloud Cover. The [[Piercing Pattern]] appears at the bottom of a downtrend and signals a potential bullish reversal.
-- **Bearish Engulfing Pattern:** The Dark Cloud Cover is similar to the [[Bearish Engulfing Pattern]] but is considered slightly less powerful. In an Engulfing pattern, the second candle completely envelops the body of the first, showing a more decisive and violent takeover by the sellers.
+- **Piercing Pattern:** This is the direct bullish counterpart to the Dark Cloud Cover. The [[Piercing_Pattern]] appears at the bottom of a downtrend and signals a potential bullish reversal.
+- **Bearish Engulfing Pattern:** The Dark Cloud Cover is similar to the [[Bearish_Engulfing_Pattern]] but is considered slightly less powerful. In an Engulfing pattern, the second candle completely envelops the body of the first, showing a more decisive and violent takeover by the sellers.
 - **On Neck Line / In Neck Line / Thrusting Line:** These are similar two-candle patterns that can appear in an uptrend. However, in these patterns, the second bearish candle fails to close below the midpoint of the first candle, showing a much weaker selling response. They are often considered bullish continuation patterns, unlike the Dark Cloud Cover.

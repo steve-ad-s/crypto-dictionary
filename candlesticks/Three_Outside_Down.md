@@ -30,6 +30,6 @@ The pattern tells the story of buyers losing their grip (first candle), being de
 
 The Three Outside Down pattern is a confirmed Bearish Engulfing pattern and is one of the more reliable bearish reversal signals.
 
-- **Three Outside Up:** This is the direct bullish counterpart. The [[Three Outside Up]] is a confirmed Bullish Engulfing pattern that appears at the bottom of a downtrend.
-- **Bearish Engulfing Pattern:** The Three Outside Down pattern contains the [[Bearish Engulfing Pattern]]. The engulfing pattern is the initial reversal warning, and the third candle provides the confirmation.
-- **Three Black Crows:** This pattern is psychologically very similar to the [[Three Black Crows]]. Both are strong three-candle bearish reversal patterns. The main difference is that the Three Outside Down begins with an engulfing pattern, showing a more dramatic initial reversal, while the Three Black Crows shows a more methodical decline.
+- **Three Outside Up:** This is the direct bullish counterpart. The [[Three_Outside_Up]] is a confirmed Bullish Engulfing pattern that appears at the bottom of a downtrend.
+- **Bearish Engulfing Pattern:** The Three Outside Down pattern contains the [[Bearish_Engulfing_Pattern]]. The engulfing pattern is the initial reversal warning, and the third candle provides the confirmation.
+- **Three Black Crows:** This pattern is psychologically very similar to the [[Three_Black_Crows]]. Both are strong three-candle bearish reversal patterns. The main difference is that the Three Outside Down begins with an engulfing pattern, showing a more dramatic initial reversal, while the Three Black Crows shows a more methodical decline.

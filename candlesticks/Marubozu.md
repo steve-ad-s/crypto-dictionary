@@ -30,7 +30,7 @@ There are two main types:
 The Marubozu is a pattern of ultimate conviction and often plays a key role in more complex patterns.
 
 - **Kicking Pattern:** A Marubozu is a key component of the rare and powerful **Kicking** pattern. This pattern consists of a Bearish Marubozu followed by a Bullish Marubozu that gaps up, or vice versa. It's one of the strongest reversal signals.
-- **Engulfing Patterns:** A long Marubozu can be the second candle in a [[Bullish Engulfing Pattern]] or [[Bearish Engulfing Pattern]], making the engulfing signal even more powerful and decisive.
-- **Three White Soldiers / Three Black Crows:** The strongest versions of the [[Three White Soldiers]] and [[Three Black Crows]] patterns are made up of three Marubozu candles, showing complete and sustained control by one side of the market.
+- **Engulfing Patterns:** A long Marubozu can be the second candle in a [[Bullish_Engulfing_Pattern]] or [[Bearish_Engulfing_Pattern]], making the engulfing signal even more powerful and decisive.
+- **Three White Soldiers / Three Black Crows:** The strongest versions of the [[Three_White_Soldiers]] and [[Three_Black_Crows]] patterns are made up of three Marubozu candles, showing complete and sustained control by one side of the market.
 - **Belt Hold:** A **Belt Hold** is a type of Marubozu that opens at the high (for a bearish candle) or low (for a bullish candle) and has no shadow on the opening side, but a small shadow on the closing side. It is also a reversal signal, though slightly less powerful than a pure Marubozu.
 -

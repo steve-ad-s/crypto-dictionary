@@ -30,6 +30,6 @@ The pattern signifies that after a period of selling, the market paused (the Har
 
 The Three Inside Up pattern is fundamentally a confirmed Bullish Harami.
 
-- **Three Inside Down:** This is the direct bearish counterpart. The [[Three Inside Down]] is a confirmed Bearish Harami that appears at the top of an uptrend and signals a bearish reversal.
-- **Bullish Harami:** The Three Inside Up pattern contains the [[Bullish Harami]]. The Harami is a sign of potential reversal, while the Three Inside Up is the confirmation of that reversal.
-- **Morning Star:** This pattern is similar in psychology to the [[Morning Star]]. Both are three-candle bullish reversal patterns that show a transition from bearishness to indecision to bullishness. The Morning Star is often considered slightly stronger due to the gap down of its middle candle.
+- **Three Inside Down:** This is the direct bearish counterpart. The [[Three_Inside_Down]] is a confirmed Bearish Harami that appears at the top of an uptrend and signals a bearish reversal.
+- **Bullish Harami:** The Three Inside Up pattern contains the [[Bullish_Harami]]. The Harami is a sign of potential reversal, while the Three Inside Up is the confirmation of that reversal.
+- **Morning Star:** This pattern is similar in psychology to the [[Morning_Star]]. Both are three-candle bullish reversal patterns that show a transition from bearishness to indecision to bullishness. The Morning Star is often considered slightly stronger due to the gap down of its middle candle.

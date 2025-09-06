@@ -26,6 +26,6 @@ For a candle to be a valid Shooting Star, the following conditions should be met
 
 The Shooting Star is a key single-candle reversal pattern. Its relationships are defined by its appearance and the context of the preceding trend.
 
-- **Inverted Hammer:** Visually, the Shooting Star and the Inverted Hammer are identical. The difference is the preceding trend. A Shooting Star occurs after an uptrend (bearish), while an Inverted Hammer occurs after a downtrend (bullish).
-- **Hanging Man & Hammer:** These are the "upside-down" versions of the Shooting Star. The Hammer is a bullish reversal pattern, and the Hanging Man is a bearish reversal pattern.
-- **Confirmation:** A bearish confirmation is crucial after a Shooting Star. This could come in the form of a [[Bearish Engulfing Pattern]], a long black [[Marubozu]], or a gap down, solidifying the reversal.
+- **Inverted Hammer:** Visually, the Shooting Star and the [[Inverted Hammer]] are identical. The difference is the preceding trend. A Shooting Star occurs after an uptrend (bearish), while an [[Inverted Hammer]] occurs after a downtrend (bullish).
+- **Hanging Man & Hammer:** These are the "upside-down" versions of the Shooting Star. The [[Hammer]] is a bullish reversal pattern, and the [[Hanging Man]] is a bearish reversal pattern.
+- **Confirmation:** A bearish confirmation is crucial after a Shooting Star. This could come in the form of a [[Bearish_Engulfing_Pattern]], a long black [[Marubozu]], or a gap down, solidifying the reversal.

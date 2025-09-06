@@ -28,6 +28,6 @@ The essence of this pattern is the defense of a specific price level. The bears 
 
 The Tweezer Bottom is a pattern that demonstrates support and can incorporate other bullish signals.
 
-- **Tweezer Tops:** This is the direct bearish counterpart. [[Tweezer Tops]] form at the end of an uptrend with two or more candles having matching highs, indicating strong resistance.
-- **Incorporating other patterns:** A Tweezer Bottom is more powerful if the candles forming it are themselves bullish patterns. For example, a bearish candle followed by a [[Hammer]] that has the same low is a very strong Tweezer Bottom. Similarly, a Tweezer Bottom where the second candle is a [[Dragonfly Doji]] or part of a [[Bullish Engulfing Pattern]] is also a very reliable signal.
+- **Tweezer Tops:** This is the direct bearish counterpart. [[Tweezer_Tops]] form at the end of an uptrend with two or more candles having matching highs, indicating strong resistance.
+- **Incorporating other patterns:** A Tweezer Bottom is more powerful if the candles forming it are themselves bullish patterns. For example, a bearish candle followed by a [[Hammer]] that has the same low is a very strong Tweezer Bottom. Similarly, a Tweezer Bottom where the second candle is a [[Dragonfly_Doji]] or part of a [[Bullish_Engulfing_Pattern]] is also a very reliable signal.
 - **Double Bottom:** A Tweezer Bottom can be the very beginning of a larger Western chart pattern like a Double Bottom, where the two troughs of the pattern are at the same price level.

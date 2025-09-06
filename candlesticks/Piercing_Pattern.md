@@ -29,6 +29,6 @@ This action shows that despite a bearish start, the buyers overwhelmed the selle
 
 The Piercing Pattern is a key bullish reversal signal and is related to several other patterns.
 
-- **Dark Cloud Cover:** This is the direct bearish counterpart to the Piercing Pattern. The [[Dark Cloud Cover]] appears at the top of an uptrend and signals a potential bearish reversal.
-- **Bullish Engulfing Pattern:** The Piercing Pattern is similar to the [[Bullish Engulfing Pattern]], but it is considered slightly less powerful. In an Engulfing pattern, the second candle completely envelops the first, showing a more decisive reversal. In a Piercing Pattern, the recovery is significant but not total.
+- **Dark Cloud Cover:** This is the direct bearish counterpart to the Piercing Pattern. The [[Dark_Cloud_Cover]] appears at the top of an uptrend and signals a potential bearish reversal.
+- **Bullish Engulfing Pattern:** The Piercing Pattern is similar to the [[Bullish_Engulfing_Pattern]], but it is considered slightly less powerful. In an Engulfing pattern, the second candle completely envelops the first, showing a more decisive reversal. In a Piercing Pattern, the recovery is significant but not total.
 - **On Neck Line / In Neck Line:** These are similar two-candle patterns that occur in a downtrend. However, in these patterns, the second bullish candle fails to close above the midpoint of the first, showing a much weaker buying response. They are typically considered bearish continuation patterns, unlike the Piercing Pattern.

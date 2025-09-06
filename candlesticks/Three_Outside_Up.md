@@ -30,6 +30,6 @@ The pattern tells the story of sellers losing control (first candle), being deci
 
 The Three Outside Up pattern is a confirmed Bullish Engulfing pattern and is one of the more reliable reversal signals.
 
-- **Three Outside Down:** This is the direct bearish counterpart. The [[Three Outside Down]] is a confirmed Bearish Engulfing pattern that appears at the top of an uptrend and signals a bearish reversal.
-- **Bullish Engulfing Pattern:** The Three Outside Up pattern contains the [[Bullish Engulfing Pattern]]. The engulfing pattern is the initial, powerful reversal signal, and the third candle of the "Three Outside Up" provides the confirmation.
-- **Three White Soldiers:** This pattern is very similar in nature to the [[Three White Soldiers]]. Both are strong three-candle bullish reversal patterns. The main difference is the setup: Three Outside Up starts with an engulfing pattern, while Three White Soldiers is a more steady "stair-step" advance.
+- **Three Outside Down:** This is the direct bearish counterpart. The [[Three_Outside_Down]] is a confirmed Bearish Engulfing pattern that appears at the top of an uptrend and signals a bearish reversal.
+- **Bullish Engulfing Pattern:** The Three Outside Up pattern contains the [[Bullish_Engulfing_Pattern]]. The engulfing pattern is the initial, powerful reversal signal, and the third candle of the "Three Outside Up" provides the confirmation.
+- **Three White Soldiers:** This pattern is very similar in nature to the [[Three_White_Soldiers]]. Both are strong three-candle bullish reversal patterns. The main difference is the setup: Three Outside Up starts with an engulfing pattern, while Three White Soldiers is a more steady "stair-step" advance.

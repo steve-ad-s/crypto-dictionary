@@ -25,6 +25,6 @@ The small real body of the Spinning Top shows that there was little difference b
 The Spinning Top is a pattern of indecision and often acts as a precursor to other patterns or a confirmation of a change in market sentiment.
 
 - **Doji:** The Spinning Top is very similar in interpretation to a [[Doji]]. The main difference is that a Spinning Top has a small real body, whereas a Doji has virtually no body at all. Both signal indecision.
-- **As part of larger patterns:** Spinning Tops can be the central candle in major reversal patterns like the [[Morning Star]] and [[Evening Star]]. The indecision represented by the Spinning Top is the key turning point between the bearish and bullish candles of these patterns.
+- **As part of larger patterns:** Spinning Tops can be the central candle in major reversal patterns like the [[Morning_Star]] and [[Evening_Star]]. The indecision represented by the Spinning Top is the key turning point between the bearish and bullish candles of these patterns.
 - **Preceding strong moves:** Often, a period of consolidation marked by several Spinning Tops can precede a significant breakout or breakdown. They show pressure building up before a decisive move.
 - **High-Wave Candle:** A Spinning Top with exceptionally long shadows is called a High-Wave candle, signifying a period of extreme volatility and uncertainty.

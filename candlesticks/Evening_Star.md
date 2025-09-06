@@ -27,7 +27,7 @@ The pattern unfolds like a story in three parts, showing the transition from bul
 
 The Evening Star is a classic and powerful multi-candle reversal pattern.
 
-- **Morning Star:** The [[Morning Star]] is the direct bullish counterpart to the Evening Star. It appears at the bottom of a downtrend and signals a bullish reversal. They are mirror images of each other.
-- **Doji / Spinning Top:** The second candle is the "star" of the pattern. If this candle is a [[Doji]], the pattern is called an **Evening Doji Star**, which is considered an even more potent bearish signal due to the greater indecision it represents.
-- **Abandoned Baby:** The Bearish Abandoned Baby is a rarer and even stronger version of the Evening Star. It occurs when the second candle (a Doji) gaps up so that its shadows do not overlap with the shadows of the first and third candles.
-- **Confirmation Patterns:** The Evening Star often marks the beginning of a new downtrend. It can be followed by other bearish patterns, such as [[Three Black Crows]], which would confirm the strength of the new bearish trend.
+- **Morning Star:** The [[Morning_Star]] is the direct bullish counterpart to the Evening Star. It appears at the bottom of a downtrend and signals a bullish reversal. They are mirror images of each other.
+- **Doji / Spinning Top:** The second candle is the "star" of the pattern. If this candle is a [[Doji]], the pattern is called an **[[Evening_Doji_Star]]**, which is considered an even more potent bearish signal due to the greater indecision it represents.
+- **Abandoned Baby:** The Bearish [[Bearish_Abandoned_Baby]] is a rarer and even stronger version of the Evening Star. It occurs when the second candle (a Doji) gaps up so that its shadows do not overlap with the shadows of the first and third candles.
+- **Confirmation Patterns:** The Evening Star often marks the beginning of a new downtrend. It can be followed by other bearish patterns, such as [[Three_Black_Crows]], which would confirm the strength of the new bearish trend.
