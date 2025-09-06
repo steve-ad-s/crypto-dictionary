@@ -2,9 +2,16 @@
 
 ![[Figure 3.22 - Morning Star.png]]
 
-The Morning Star is a three-candle bullish reversal pattern that appears at the bottom of a downtrend. It is a powerful signal indicating that a significant shift in momentum from sellers to buyers has occurred.
+The Morning Star is a classic three-candle bullish reversal pattern that appears at the bottom of a downtrend. It is a strong indicator of a potential shift from bearish to bullish sentiment.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bullish Reversal
 
 ## Logical Behavior
+
+The Morning Star tells a story of the market finding a bottom, hesitating, and then beginning a new ascent.
 
 The pattern tells a clear three-act story of a market bottoming out:
 

@@ -2,7 +2,12 @@
 
 ![[piercing_pattern.png]]
 
-The Piercing Pattern is a two-candle bullish reversal pattern that occurs at the bottom of a downtrend. It signals that the selling pressure may be ending and a potential reversal to the upside is imminent.
+The Piercing Pattern is a two-candle bullish reversal pattern that occurs at the bottom of a downtrend. It is the bullish counterpart to the [[Dark Cloud Cover]] pattern.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bullish Reversal
 
 ## Logical Behavior
 

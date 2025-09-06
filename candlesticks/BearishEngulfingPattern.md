@@ -2,11 +2,16 @@
 
 ![[Figure 3.25 - Bearish Engulfing Pattern.png]]
 
-The Bearish Engulfing pattern is a two-candle bearish reversal pattern that signals a potential top in the market and a shift in momentum from buyers to sellers.
+The Bearish Engulfing Pattern is a powerful two-candle bearish reversal pattern that occurs at the top of an uptrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bearish Reversal
 
 ## Logical Behavior
 
-This pattern tells a story of a sudden and powerful reversal of sentiment:
+This pattern tells a story of a dramatic shift in market sentiment from bullish to bearish.
 
 1.  **First Candle (Bullish):** The first candle is a bullish (white/green) candle, which is in line with the prevailing uptrend.
 2.  **Second Candle (Bearish):** The second candle is a strong bearish (black/red) candle. It opens higher than the previous day's close (a gap up) but then sellers step in with overwhelming force, pushing the price down to close below the previous day's open. The body of this second candle completely "engulfs" the body of the first candle.

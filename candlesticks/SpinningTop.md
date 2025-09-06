@@ -2,7 +2,16 @@
 
 ![[Figure 3.19 - Spinning Top.png]]
 
-A Spinning Top is a single-candle pattern that indicates indecision in the market, similar to a Doji. It is characterized by a small real body, with long upper and lower shadows of similar length.
+A Spinning Top is a single candlestick pattern that indicates indecision in the market, similar to a [[Doji]], but with a small real body.
+
+## Relevance & Type
+
+- **Relevance:** Secondary & Nuanced
+- **Type:** Single-Candle Indecision
+
+## What is a Spinning Top?
+
+A Spinning Top is characterized by:
 
 ## Logical Behavior
 

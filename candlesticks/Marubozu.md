@@ -2,7 +2,18 @@
 
 ![[Figure 3.30 - Marubozu.png]]
 
-The Marubozu is a single-candle pattern that represents the strongest and most decisive price action. "Marubozu" means "bald" or "shaved head" in Japanese, which refers to the candle's lack of shadows. It is a full-bodied candle with no upper or lower wicks.
+Marubozu, which means "shaved head" or "bald" in Japanese, is a single candlestick pattern with a full body and no shadows (or very tiny ones). It is a powerful signal of conviction.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Continuation / Reversal
+
+## Types of Marubozu
+
+There are two main types of Marubozu candles:
+- **Bullish Marubozu:** The close is significantly higher than the open.
+- **Bearish Marubozu:** The close is significantly lower than the open.
 
 ## Logical Behavior
 

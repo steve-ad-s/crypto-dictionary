@@ -4,6 +4,11 @@
 
 The Bearish Abandoned Baby is a very rare but extremely powerful three-candle bearish reversal pattern. It is one of the most reliable and sought-after signals of a major market top.
 
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bearish Reversal
+
 ## Logical Behavior
 
 This pattern paints a dramatic picture of a complete and total reversal of market sentiment at a peak.

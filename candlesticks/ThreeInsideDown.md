@@ -2,11 +2,16 @@
 
 ![[Three inside Up - Down.png]]
 
-The Three Inside Down is a three-candle bearish reversal pattern. It is a stronger confirmation of a market top than the [[BearishHarami]] pattern is on its own.
+The Three Inside Down is a three-candle bearish reversal pattern that is a stronger confirmation of the initial [[Bearish Harami]] pattern.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bearish Reversal
 
 ## Logical Behavior
 
-This pattern illustrates a clear shift in market power from buyers to sellers over three trading sessions.
+This pattern tells a story in two parts: first, a potential top indicated by the Harami, and second, the confirmation of that top with a bearish move.
 
 1.  **First Candle (Bullish):** The first candle is a long bullish (white/green) candle that is part of a clear uptrend, showing that buyers are still in command.
 2.  **Second Candle (Indecision):** The second candle is a small bearish (black/red) candle whose body is completely contained within the body of the first candle. This forms a [[BearishHarami]] pattern, which is the first sign that the bullish momentum is waning.

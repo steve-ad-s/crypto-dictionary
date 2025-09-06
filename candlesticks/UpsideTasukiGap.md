@@ -2,11 +2,16 @@
 
 ![[Tasuki Gap (Upside & Downside).png]]
 
-The Upside Tasuki Gap is a three-candle bullish continuation pattern. It indicates that the current uptrend is likely to continue after a brief pause for profit-taking.
+The Upside Tasuki Gap is a three-candle bullish continuation pattern that appears in an uptrend.
+
+## Relevance & Type
+
+- **Relevance:** Secondary & Nuanced
+- **Type:** Gap / Triple-Candle Bullish Continuation
 
 ## Logical Behavior
 
-This pattern shows the strength of an ongoing trend and how minor pullbacks are used as buying opportunities.
+This pattern tells a story of a trend that is pausing but still has strength.
 
 1.  **First Candle (Bullish):** A long white/green candle appears in a clear uptrend.
 2.  **Second Candle (Bullish Gap):** Another white/green candle that gaps up from the first, showing a continuation of the strong buying pressure.

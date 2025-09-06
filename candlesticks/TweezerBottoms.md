@@ -2,11 +2,16 @@
 
 ![[tweezer Tops and Bottoms.png]]
 
-The Tweezer Bottom is a two-candle (or sometimes multi-candle) bullish reversal pattern that occurs at the bottom of a downtrend. The pattern is formed when two or more candles have matching lows, indicating a strong level of support.
+Tweezer Bottoms is a two-candle bullish reversal pattern that occurs at the bottom of a downtrend. It consists of two candles that have the same (or very nearly the same) low.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bullish Reversal
 
 ## Logical Behavior
 
-The Tweezer Bottom pattern signifies a standoff at a low point where the bears are unable to push prices any lower.
+The Tweezer Bottom pattern signifies a strong support level.
 
 1.  **First Candle (Bearish):** Typically, the first candle is a strong bearish candle that continues the downtrend, making a new low.
 2.  **Second Candle (Bullish):** The second candle attempts to surpass the low of the first candle but fails, hitting the exact same low before reversing. The second candle is often a bullish candle (like a [[Hammer]] or a [[Doji]]), which makes the pattern more significant.

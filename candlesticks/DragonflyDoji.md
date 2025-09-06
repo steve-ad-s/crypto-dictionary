@@ -2,11 +2,16 @@
 
 ![[Figure 3.20 - Dragonfly Doji.png]]
 
-The Dragonfly Doji is a significant single-candle bullish reversal pattern. It is a type of [[Doji]] where the open, high, and close prices are the same (or very close), and there is a long lower shadow. It has little to no upper shadow.
+The Dragonfly Doji is a specific and powerful type of [[Doji]] that acts as a single-candle bullish reversal pattern, especially when it appears at the bottom of a downtrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Bullish Reversal
 
 ## Logical Behavior
 
-The story of a Dragonfly Doji is one of a dramatic victory for the bulls. The long lower shadow shows that sellers pushed the price down significantly after the open. However, the buying pressure was so strong that by the end of the session, the price had rallied all the way back up to close at the opening price. This represents a powerful rejection of lower prices and indicates that the control has shifted firmly from sellers to buyers.
+The Dragonfly Doji tells a story of a fierce battle within a single trading session where the bulls emerge as the clear victors. The long lower shadow shows that sellers pushed the price down significantly after the open. However, the buying pressure was so strong that by the end of the session, the price had rallied all the way back up to close at the opening price. This represents a powerful rejection of lower prices and indicates that the control has shifted firmly from sellers to buyers.
 
 - **At the bottom of a downtrend:** A Dragonfly Doji is a strong signal of a potential bottom and an impending bullish reversal. It suggests capitulation selling was absorbed by aggressive buying.
 - **Confirmation is recommended:** While a strong signal, it is wise to wait for confirmation. A subsequent candle that closes above the Dragonfly's high provides strong validation of the reversal.

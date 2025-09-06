@@ -2,9 +2,16 @@
 
 ![[Figure 3.16 - Inverted Hammer.png]]
 
-An Inverted Hammer is a single-candle bullish reversal pattern that occurs at the bottom of a downtrend. It looks like an upside-down Hammer.
+The Inverted Hammer is a single-candle bullish reversal pattern that can appear at the bottom of a downtrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Bullish Reversal
 
 ## Logical Behavior
+
+The Inverted Hammer tells a story of potential selling exhaustion.
 
 The pattern shows that buyers tried to push the price up, indicated by the long upper shadow. However, sellers managed to push the price back down to close near the open. While sellers prevented a higher close, the initial buying pressure is a sign of potential bullish strength returning to the market. It suggests that the existing downtrend might be losing momentum.
 

@@ -2,7 +2,12 @@
 
 ![[Figure 3.24 - Bullish Engulfing Pattern.png]]
 
-The Bullish Engulfing pattern is a two-candle bullish reversal pattern. It signals a potential reversal of a downtrend and a shift in momentum from sellers to buyers.
+The Bullish Engulfing Pattern is a powerful two-candle bullish reversal pattern that occurs at the bottom of a downtrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bullish Reversal
 
 ## Logical Behavior
 

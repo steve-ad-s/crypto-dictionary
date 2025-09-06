@@ -2,11 +2,16 @@
 
 ![[Three Outside Up - Down.png]]
 
-The Three Outside Down is a three-candle bearish reversal pattern. It is a stronger confirmation of a market top than the [[BearishEngulfingPattern]] on its own.
+The Three Outside Down is a three-candle bearish reversal pattern that is a stronger confirmation of the initial [[Bearish Engulfing Pattern]].
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bearish Reversal
 
 ## Logical Behavior
 
-This pattern shows a decisive shift from bullish control to a confirmed bearish reversal over three trading sessions.
+This pattern tells a story in two parts: first, a powerful reversal signaled by the Engulfing candle, and second, the confirmation of that new downward trend.
 
 1.  **First Candle (Bullish):** The first candle is a small bullish (white/green) candle that occurs during a clear uptrend.
 2.  **Second Candle (Bearish Engulfing):** The second candle is a long bearish (black/red) candle that completely engulfs the body of the first candle. This forms a classic [[BearishEngulfingPattern]], which is the first powerful sign of a potential top.

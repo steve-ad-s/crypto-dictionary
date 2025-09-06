@@ -2,11 +2,16 @@
 
 ![[Three inside Up - Down.png]]
 
-The Three Inside Up is a three-candle bullish reversal pattern. It is a more reliable confirmation of a reversal than the [[BullishHarami]] pattern alone.
+The Three Inside Up is a three-candle bullish reversal pattern that is a stronger confirmation of the initial [[Bullish Harami]] pattern.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bullish Reversal
 
 ## Logical Behavior
 
-This pattern shows a clear progression from a downtrend to indecision, and finally to a bullish reversal.
+This pattern tells a story in two parts: first, a potential bottom indicated by the Harami, and second, the confirmation of that bottom with a bullish move.
 
 1.  **First Candle (Bearish):** The first candle is a long bearish (black/red) candle that continues the existing downtrend.
 2.  **Second Candle (Indecision):** The second candle is a small bullish (white/green) candle whose body is completely contained within the body of the first candle. This is a [[BullishHarami]] pattern, which signals that the selling momentum is fading.

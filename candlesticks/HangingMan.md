@@ -2,9 +2,16 @@
 
 ![[Figure 3.17 - Hanging Man.png]]
 
-The Hanging Man is a single-candle bearish reversal pattern that occurs at the top of an uptrend. It is visually identical to the Hammer pattern but has different implications due to its position in the trend.
+The Hanging Man is a single candle bearish reversal pattern that can appear at the top of an uptrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Bearish Reversal
 
 ## Logical Behavior
+
+The Hanging Man tells a story of potential bullish exhaustion.
 
 A Hanging Man pattern signals a potential reversal of an uptrend. The long lower shadow shows that sellers managed to push the price significantly lower during the session, even though buyers brought it back up to close near the open. This intra-session sell-off is a warning sign that the bullish momentum is waning and sellers are starting to test the market's strength.
 

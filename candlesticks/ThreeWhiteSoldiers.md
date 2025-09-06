@@ -2,7 +2,12 @@
 
 ![[Figure 3.28 - Three White Soldiers.png]]
 
-The Three White Soldiers is a powerful three-candle bullish reversal pattern. It is considered one of the strongest and most reliable signals of a potential bottom and the start of a new uptrend.
+The Three White Soldiers is a powerful three-candle bullish reversal pattern that appears at the bottom of a downtrend. It signals a strong and sustained shift in momentum from sellers to buyers.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bullish Reversal
 
 ## Logical Behavior
 

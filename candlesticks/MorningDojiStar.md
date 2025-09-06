@@ -2,11 +2,16 @@
 
 ![[Morning & Evening Doji Star.png]]
 
-The Morning Doji Star is a three-candle bullish reversal pattern. It is a more powerful and decisive version of the standard [[Morning Star]] pattern.
+The Morning Doji Star is a three-candle bullish reversal pattern that is a more powerful variation of the standard [[Morning Star]]. The presence of a [[Doji]] as the second candle signals greater indecision at the market bottom before the reversal.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bullish Reversal
 
 ## Logical Behavior
 
-The pattern tells a story of a market bottoming with a moment of perfect indecision before a strong bullish reversal.
+The pattern tells a story of complete seller exhaustion and a decisive bullish reversal.
 
 1.  **First Candle (Bearish):** A long black/red candle confirms that the downtrend is still in effect and sellers are in control.
 2.  **Second Candle (The Doji Star):** A [[Doji]] candle that gaps down from the body of the first candle. The gap down shows continued selling pressure, but the Doji itself represents a complete halt in momentum and a perfect equilibrium between buyers and sellers. This is a moment of profound indecision after a strong trend, which is a powerful warning sign.

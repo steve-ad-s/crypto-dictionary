@@ -2,11 +2,16 @@
 
 ![[Tasuki Gap (Upside & Downside).png]]
 
-The Downside Tasuki Gap is a three-candle bearish continuation pattern. It indicates that the current downtrend is likely to resume after a brief upward retracement.
+The Downside Tasuki Gap is a three-candle bearish continuation pattern that appears in a downtrend.
+
+## Relevance & Type
+
+- **Relevance:** Secondary & Nuanced
+- **Type:** Gap / Triple-Candle Bearish Continuation
 
 ## Logical Behavior
 
-This pattern shows the resilience of a downtrend, where a minor rally is quickly sold into.
+This pattern tells a story of a trend that is pausing but still has downward momentum.
 
 1.  **First Candle (Bearish):** A long black/red candle appears in a clear downtrend.
 2.  **Second Candle (Bearish Gap):** Another black/red candle that gaps down from the first, showing a continuation of the strong selling pressure.

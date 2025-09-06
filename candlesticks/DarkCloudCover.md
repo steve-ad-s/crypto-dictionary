@@ -2,11 +2,16 @@
 
 ![[dark_cloud_cover.png]]
 
-The Dark Cloud Cover is a two-candle bearish reversal pattern that appears at the top of an uptrend. It indicates a potential shift in momentum from buyers to sellers and warns of a possible price decline.
+Dark Cloud Cover is a two-candle bearish reversal pattern that appears at the top of an uptrend. It is the bearish counterpart to the [[Piercing Pattern]].
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bearish Reversal
 
 ## Logical Behavior
 
-This pattern tells a story of a failed rally and a significant comeback by the sellers.
+This pattern shows a significant shift in sentiment where sellers overpower buyers, signaling a potential market top.
 
 1.  **First Candle (Bullish):** The first candle is a long bullish (white/green) candle, which confirms that the uptrend is still active and buyers are in control.
 2.  **Second Candle (Bearish):** The second candle is a long bearish (black/red) candle. It opens with a gap up, above the high of the previous day, which initially appears bullish. However, sellers then take control and push the price down, causing the candle to close more than halfway down the body of the first bullish candle.

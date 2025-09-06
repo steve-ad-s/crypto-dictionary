@@ -2,9 +2,16 @@
 
 ![[Figure 3.23 - Evening Star.png]]
 
-The Evening Star is a three-candle bearish reversal pattern that appears at the top of an uptrend. It is a powerful signal that warns of a potential peak and a shift in momentum from buyers to sellers.
+The Evening Star is a classic three-candle bearish reversal pattern that appears at the top of an uptrend. It is a strong indicator of a potential shift from bullish to bearish sentiment.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Triple-Candle Bearish Reversal
 
 ## Logical Behavior
+
+The Evening Star tells a story of the market reaching a peak, hesitating, and then beginning a new descent.
 
 The pattern unfolds like a story in three parts, showing the transition from bullish dominance to a bearish takeover:
 

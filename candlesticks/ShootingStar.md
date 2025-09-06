@@ -2,7 +2,12 @@
 
 ![[Figure 3.15 - Shooting Star.png]]
 
-A Shooting Star is a bearish reversal pattern that appears at the top of an uptrend. It has a small real body, a long upper shadow, and little to no lower shadow.
+The Shooting Star is a single-candle bearish reversal pattern that can appear at the top of an uptrend.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Bearish Reversal
 
 ## Logical Behavior
 

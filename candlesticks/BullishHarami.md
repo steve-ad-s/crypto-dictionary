@@ -2,11 +2,16 @@
 
 ![[Figure 3.26 - Bullish Harami.png]]
 
-The Bullish Harami is a two-candle bullish reversal pattern. The word "Harami" is an old Japanese word for "pregnant," and the pattern is named for its appearance: a large candle followed by a smaller candle, resembling a pregnant woman.
+The Bullish Harami is a two-candle bullish reversal pattern that appears at the bottom of a downtrend. "Harami" is an old Japanese word for "pregnant."
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bullish Reversal
 
 ## Logical Behavior
 
-The Bullish Harami signals a potential end to a downtrend and a decrease in selling momentum.
+The Harami pattern tells a story of a potential trend reversal due to a sudden decrease in momentum.
 
 1.  **First Candle (Bearish):** The first candle is a long bearish (black/red) candle, which shows that the sellers are still in control of the market.
 2.  **Second Candle (Bullish):** The second candle is a small bullish (white/green) candle whose body is completely contained within the body of the first candle.

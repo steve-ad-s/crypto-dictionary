@@ -2,7 +2,12 @@
 
 ![[Kicking (Bullish & Bearish).png]]
 
-The Bullish Kicking pattern is a very rare but extremely powerful two-candle bullish reversal pattern. It signals a sudden and dramatic shift in market sentiment from bearish to bullish.
+The Bullish Kicking pattern is a very rare and powerful two-candle bullish reversal pattern. It signals a sudden and dramatic shift in market sentiment from bearish to bullish.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Double-Candle Bullish Reversal
 
 ## Logical Behavior
 

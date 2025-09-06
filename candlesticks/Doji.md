@@ -2,7 +2,16 @@
 
 ![[Figure 3.18 - Doji.png]]
 
-A Doji is a unique candle that signifies indecision or a potential turning point in the market. It is formed when the opening and closing prices of a security are virtually equal. The candle resembles a cross, inverted cross, or plus sign.
+A Doji is a single candlestick pattern that reveals indecision in the market. It is one of the most important and common signals in candlestick charting.
+
+## Relevance & Type
+
+- **Relevance:** Major
+- **Type:** Single-Candle Indecision / Reversal
+
+## What is a Doji?
+
+A Doji occurs when the opening and closing prices of a security are virtually identical. The lengths of the upper and lower shadows can vary, creating different types of Doji, but the core story is one of equilibrium and indecision.
 
 ## Logical Behavior
 
