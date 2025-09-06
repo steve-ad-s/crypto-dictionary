@@ -30,6 +30,6 @@ The "abandoned baby" is the Doji, left isolated and stranded by the gaps on eith
 
 The Bearish Abandoned Baby is the most decisive of the "star" family of bearish reversal patterns.
 
-- **Bullish Abandoned Baby:** This is the direct bullish counterpart. The [[Bullish_Abandoned_Baby]] is an extremely strong bullish reversal signal found at the bottom of a downtrend.
-- **Evening Doji Star:** The Bearish Abandoned Baby is a more powerful and specific version of the [[Evening_Doji_Star]]. The key difference is that the Abandoned Baby requires the shadows of the Doji to gap away from the shadows of the other two candles, showing a more complete separation and reversal of sentiment.
+- **Bullish Abandoned Baby:** This is the direct bullish counterpart. The [[BullishAbandonedBaby]] is an extremely strong bullish reversal signal found at the bottom of a downtrend.
+- **Evening Doji Star:** The Bearish Abandoned Baby is a more powerful and specific version of the [[EveningDojiStar]]. The key difference is that the Abandoned Baby requires the shadows of the Doji to gap away from the shadows of the other two candles, showing a more complete separation and reversal of sentiment.
 - **Island Reversal:** This pattern is the candlestick equivalent of a Western **Island Reversal** chart pattern. The "island" is the Doji, left stranded by the gaps on either side, signifying a peak that is unlikely to be revisited soon.

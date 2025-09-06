@@ -28,5 +28,5 @@ The story here is that after a strong gap down, some traders took profits or att
 
 The Downside Tasuki Gap is a classic continuation pattern involving a "window" or gap.
 
-- **Upside Tasuki Gap:** This is the direct bullish counterpart. The [[Upside_Tasuki_Gap]] is a bullish continuation pattern that appears in an uptrend.
+- **Upside Tasuki Gap:** This is the direct bullish counterpart. The [[UpsideTasukiGap]] is a bullish continuation pattern that appears in an uptrend.
 - **Falling Three Methods:** This is another bearish continuation pattern. The Falling Three Methods is a five-candle pattern that also shows a pause in a downtrend, but it represents a longer and more complex consolidation than the brief, one-day rally seen in the Tasuki Gap.

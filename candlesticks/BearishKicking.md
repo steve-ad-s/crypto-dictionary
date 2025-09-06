@@ -26,6 +26,6 @@ This pattern represents a violent reversal of fortune. The absolute control exhi
 
 The Bearish Kicking pattern is one of the strongest reversal signals, composed of the most decisive single-candle patterns.
 
-- **Bullish Kicking:** This is the direct bullish counterpart. The [[Bullish_Kicking]] pattern consists of a Bearish Marubozu followed by a gap up to a Bullish Marubozu, signaling a violent bullish reversal.
+- **Bullish Kicking:** This is the direct bullish counterpart. The [[BullishKicking]] pattern consists of a Bearish Marubozu followed by a gap up to a Bullish Marubozu, signaling a violent bullish reversal.
 - **Marubozu:** The pattern's strength comes from its two [[Marubozu]] components. The lack of shadows shows complete, one-sided control on both days, but in opposite directions, highlighting the severity of the reversal.
 - **Separating Lines:** A Bearish Separating Lines pattern is similar as it involves a Bullish Marubozu followed by a Bearish Marubozu. However, in Separating Lines, both candles open at the same price level; there is no gap. The gap in the Kicking pattern is what makes it a much more potent reversal signal.

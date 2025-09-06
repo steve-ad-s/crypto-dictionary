@@ -28,4 +28,4 @@ The Hanging Man's identity is tied to its shape and its appearance after an uptr
 
 - **Hammer:** The Hanging Man is the bearish counterpart to the bullish [[Hammer]]. They look the same, but the [[Hammer]] appears in a downtrend. This highlights the absolute importance of the preceding trend in candlestick analysis.
 - **Shooting Star:** The [[Shooting Star]] is another single-candle bearish reversal pattern that appears in an uptrend. It has a long upper shadow, signifying a rejection of higher prices, whereas the Hanging Man's long lower shadow signifies a loss of bullish support during the session.
-- **Confirmation:** Like most reversal patterns, the Hanging Man requires bearish confirmation. This can come from a following candle, such as a long black [[Marubozu]] or a [[Bearish_Engulfing_Pattern]], which would solidify the bearish reversal.
+- **Confirmation:** Like most reversal patterns, the Hanging Man requires bearish confirmation. This can come from a following candle, such as a long black [[Marubozu]] or a [[BearishEngulfingPattern]], which would solidify the bearish reversal.

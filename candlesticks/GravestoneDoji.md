@@ -25,6 +25,6 @@ The story of a Gravestone Doji is a tale of a failed rally and a victory for the
 The Gravestone Doji is a specialized and potent version of a standard Doji.
 
 - **Doji:** It is a specific type of [[Doji]], but it carries a much stronger bearish bias than a standard, neutral Doji.
-- **Dragonfly Doji:** This is the direct bullish opposite of a Gravestone Doji. The [[Dragonfly_Doji]] has a long lower shadow and is a bullish reversal signal. They are perfect mirror images in both form and meaning.
-- **Shooting Star:** A [[Shooting_Star]] is very similar in interpretation to a Gravestone Doji. Both are bearish reversal patterns with long upper shadows. The main difference is that a Shooting Star has a small real body, while a Gravestone Doji has none. The Gravestone is often considered a more powerful and decisive signal.
-- **Confirmation Patterns:** After a Gravestone Doji, a strong bearish pattern like [[Three_Black_Crows]] or a [[Bearish_Engulfing_Pattern]] would provide powerful confirmation of the new downtrend.
+- **Dragonfly Doji:** This is the direct bullish opposite of a Gravestone Doji. The [[DragonflyDoji]] has a long lower shadow and is a bullish reversal signal. They are perfect mirror images in both form and meaning.
+- **Shooting Star:** A [[ShootingStar]] is very similar in interpretation to a Gravestone Doji. Both are bearish reversal patterns with long upper shadows. The main difference is that a Shooting Star has a small real body, while a Gravestone Doji has none. The Gravestone is often considered a more powerful and decisive signal.
+- **Confirmation Patterns:** After a Gravestone Doji, a strong bearish pattern like [[ThreeBlackCrows]] or a [[BearishEngulfingPattern]] would provide powerful confirmation of the new downtrend.

@@ -27,6 +27,6 @@ The pattern tells a clear story of a market peak, a moment of perfect indecision
 
 The Evening Doji Star is a very strong reversal pattern due to the extreme indecision represented by the Doji at the peak.
 
-- **Morning Doji Star:** The [[Morning_Doji_Star]] is the direct bullish counterpart. It appears at the bottom of a downtrend and signals a bullish reversal.
-- **Evening Star:** This pattern is a more potent variation of the standard [[Evening_Star]]. The key difference is the middle candle being a Doji rather than a Spinning Top, which signifies greater indecision and makes the subsequent reversal more significant.
-- **Bearish Abandoned Baby:** The [[Bearish_Abandoned_Baby]] is an even rarer and stronger version of this pattern. In an Abandoned Baby, the Doji's shadows also gap above the shadows of the first and third candles, indicating a complete abandonment of the bullish sentiment.
+- **Morning Doji Star:** The [[MorningDojiStar]] is the direct bullish counterpart. It appears at the bottom of a downtrend and signals a bullish reversal.
+- **Evening Star:** This pattern is a more potent variation of the standard [[EveningStar]]. The key difference is the middle candle being a Doji rather than a Spinning Top, which signifies greater indecision and makes the subsequent reversal more significant.
+- **Bearish Abandoned Baby:** The [[BearishAbandonedBaby]] is an even rarer and stronger version of this pattern. In an Abandoned Baby, the Doji's shadows also gap above the shadows of the first and third candles, indicating a complete abandonment of the bullish sentiment.

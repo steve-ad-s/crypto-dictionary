@@ -28,5 +28,5 @@ The story here is that after a strong gap up, some traders took profits, causing
 
 The Upside Tasuki Gap is one of several patterns that deal with gaps, which are always significant in candlestick analysis.
 
-- **Downside Tasuki Gap:** This is the direct bearish counterpart. The [[Downside_Tasuki_Gap]] is a bearish continuation pattern that appears in a downtrend.
+- **Downside Tasuki Gap:** This is the direct bearish counterpart. The [[DownsideTasukiGap]] is a bearish continuation pattern that appears in a downtrend.
 - **Rising Three Methods:** This is another bullish continuation pattern. The Rising Three Methods is a five-candle pattern that also shows a pause in an uptrend, but it is a longer consolidation than the brief, one-day pullback seen in the Tasuki Gap.

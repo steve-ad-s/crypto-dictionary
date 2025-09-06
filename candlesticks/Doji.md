@@ -24,11 +24,11 @@ The core story of a Doji is a tug-of-war between buyers and sellers where neithe
 The Doji is a fundamental building block in many candlestick patterns and has several important variations.
 
 - **Variations:**
-    - [[Dragonfly_Doji]]: A bullish reversal Doji with a long lower shadow and no upper shadow.
-    - [[Gravestone_Doji]]: A bearish reversal Doji with a long upper shadow and no lower shadow.
+    - [[DragonflyDoji]]: A bullish reversal Doji with a long lower shadow and no upper shadow.
+    - [[GravestoneDoji]]: A bearish reversal Doji with a long upper shadow and no lower shadow.
     - **Long-Legged Doji:** Has long upper and lower shadows, showing extreme indecision.
     - **Four Price Doji:** A rare pattern where the open, high, low, and close are all the same, representing ultimate indecision and low volume.
 - **As part of larger patterns:** The Doji is a key component of powerful multi-candle patterns.
-    - **[[Morning_Doji_Star]]:** A bullish reversal pattern where a Doji gaps down between a long black candle and a long white candle.
-    - **[[Evening_Doji_Star]]:** A bearish reversal pattern where a Doji gaps up between a long white candle and a long black candle.
-    - **Harami Cross:** A [[Bullish_Harami]] or [[Bearish_Harami]] pattern where the second candle is a Doji, making the reversal signal stronger.
+    - **[[MorningDojiStar]]:** A bullish reversal pattern where a Doji gaps down between a long black candle and a long white candle.
+    - **[[EveningDojiStar]]:** A bearish reversal pattern where a Doji gaps up between a long white candle and a long black candle.
+    - **Harami Cross:** A [[BullishHarami]] or [[BearishHarami]] pattern where the second candle is a Doji, making the reversal signal stronger.

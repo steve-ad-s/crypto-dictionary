@@ -9,7 +9,7 @@ The Evening Star is a three-candle bearish reversal pattern that appears at the 
 The pattern unfolds like a story in three parts, showing the transition from bullish dominance to a bearish takeover:
 
 1.  **First Candle (Bullish):** A long white/green candle shows that the uptrend is strong and buyers are in full control.
-2.  **Second Candle (Indecision):** A small-bodied candle (a [[Spinning_Top]] or a [[Doji]]) that gaps up from the first candle. This gap up is the last gasp of the bullish move. The small body indicates that buyers could not push the price much higher, and there is a state of indecision. The buying momentum is fading.
+2.  **Second Candle (Indecision):** A small-bodied candle (a [[SpinningTop]] or a [[Doji]]) that gaps up from the first candle. This gap up is the last gasp of the bullish move. The small body indicates that buyers could not push the price much higher, and there is a state of indecision. The buying momentum is fading.
 3.  **Third Candle (Bearish):** A long black/red candle that closes well into the body of the first candle. This candle confirms that sellers have seized control and are aggressively pushing the price down, erasing a significant portion of the gains from the first day.
 
 - **Confirmation:** The pattern is considered confirmed when the price breaks below the low of the third candle. The deeper the third candle closes into the first candle's body, the more bearish the signal.
@@ -27,7 +27,7 @@ The pattern unfolds like a story in three parts, showing the transition from bul
 
 The Evening Star is a classic and powerful multi-candle reversal pattern.
 
-- **Morning Star:** The [[Morning_Star]] is the direct bullish counterpart to the Evening Star. It appears at the bottom of a downtrend and signals a bullish reversal. They are mirror images of each other.
-- **Doji / Spinning Top:** The second candle is the "star" of the pattern. If this candle is a [[Doji]], the pattern is called an **[[Evening_Doji_Star]]**, which is considered an even more potent bearish signal due to the greater indecision it represents.
-- **Abandoned Baby:** The Bearish [[Bearish_Abandoned_Baby]] is a rarer and even stronger version of the Evening Star. It occurs when the second candle (a Doji) gaps up so that its shadows do not overlap with the shadows of the first and third candles.
-- **Confirmation Patterns:** The Evening Star often marks the beginning of a new downtrend. It can be followed by other bearish patterns, such as [[Three_Black_Crows]], which would confirm the strength of the new bearish trend.
+- **Morning Star:** The [[MorningStar]] is the direct bullish counterpart to the Evening Star. It appears at the bottom of a downtrend and signals a bullish reversal. They are mirror images of each other.
+- **Doji / Spinning Top:** The second candle is the "star" of the pattern. If this candle is a [[Doji]], the pattern is called an **[[EveningDojiStar]]**, which is considered an even more potent bearish signal due to the greater indecision it represents.
+- **Abandoned Baby:** The Bearish [[BearishAbandonedBaby]] is a rarer and even stronger version of the Evening Star. It occurs when the second candle (a Doji) gaps up so that its shadows do not overlap with the shadows of the first and third candles.
+- **Confirmation Patterns:** The Evening Star often marks the beginning of a new downtrend. It can be followed by other bearish patterns, such as [[ThreeBlackCrows]], which would confirm the strength of the new bearish trend.

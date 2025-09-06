@@ -27,7 +27,7 @@ The small body of the second candle indicates a sudden drop in momentum and a pe
 
 The Bullish Harami is a subtle but important reversal signal.
 
-- **Bearish Harami:** This is the direct bearish counterpart. The [[Bearish_Harami]] appears at the top of an uptrend and signals a potential bearish reversal.
+- **Bearish Harami:** This is the direct bearish counterpart. The [[BearishHarami]] appears at the top of an uptrend and signals a potential bearish reversal.
 - **Harami Cross:** A more powerful version of the Bullish Harami is the **Harami Cross**. This occurs when the second candle is a [[Doji]] instead of a small-bodied candle. The Doji signifies even greater indecision and increases the likelihood of a significant reversal.
-- **Bullish Engulfing Pattern:** The Harami is often considered the inverse of the [[Bullish_Engulfing_Pattern]]. The Engulfing pattern is a much more powerful and explosive reversal signal, while the Harami is a quieter, more tentative signal of a potential change in trend.
-- **Three Inside Up:** The Bullish Harami is the first two candles of the **[[Three_Inside_Up]]** pattern. The third candle in this pattern is a bullish candle that closes above the high of the Harami pattern, providing the necessary confirmation for the reversal.
+- **Bullish Engulfing Pattern:** The Harami is often considered the inverse of the [[BullishEngulfingPattern]]. The Engulfing pattern is a much more powerful and explosive reversal signal, while the Harami is a quieter, more tentative signal of a potential change in trend.
+- **Three Inside Up:** The Bullish Harami is the first two candles of the **[[ThreeInsideUp]]** pattern. The third candle in this pattern is a bullish candle that closes above the high of the Harami pattern, providing the necessary confirmation for the reversal.

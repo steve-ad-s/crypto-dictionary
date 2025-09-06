@@ -25,6 +25,6 @@ The story of a Dragonfly Doji is one of a dramatic victory for the bulls. The lo
 The Dragonfly Doji is a specialized and powerful version of a standard Doji.
 
 - **Doji:** It is a specific type of [[Doji]], carrying a more explicitly bullish bias than a standard Doji, which is more neutral.
-- **Gravestone Doji:** This is the direct opposite of a Dragonfly Doji. The [[Gravestone_Doji]] has a long upper shadow and is a bearish reversal signal. The two are mirror images in both appearance and meaning.
+- **Gravestone Doji:** This is the direct opposite of a Dragonfly Doji. The [[GravestoneDoji]] has a long upper shadow and is a bearish reversal signal. The two are mirror images in both appearance and meaning.
 - **Hammer:** A [[Hammer]] is very similar in interpretation to a Dragonfly Doji. Both are bullish reversal patterns with long lower shadows. The main difference is that a Hammer has a small real body, while a Dragonfly Doji has none. The Dragonfly is generally considered a stronger, more decisive signal.
-- **Confirmation Patterns:** After a Dragonfly Doji, a strong bullish pattern like [[Three_White_Soldiers]] or a [[Bullish_Engulfing_Pattern]] would provide powerful confirmation of the new uptrend.
+- **Confirmation Patterns:** After a Dragonfly Doji, a strong bullish pattern like [[ThreeWhiteSoldiers]] or a [[BullishEngulfingPattern]] would provide powerful confirmation of the new uptrend.

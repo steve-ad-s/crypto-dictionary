@@ -28,7 +28,7 @@ This price action shows that while sellers were in control at the open, creating
 
 The Bullish Engulfing pattern is one of the most widely recognized and powerful reversal signals.
 
-- **Bearish Engulfing Pattern:** This is the direct bearish counterpart. The [[Bearish_Engulfing_Pattern]] occurs at the top of an uptrend and signals a bearish reversal.
+- **Bearish Engulfing Pattern:** This is the direct bearish counterpart. The [[BearishEngulfingPattern]] occurs at the top of an uptrend and signals a bearish reversal.
 - **Piercing Pattern:** The Piercing Pattern is a similar, but slightly less powerful, bullish reversal pattern. In a Piercing Pattern, the second bullish candle closes more than halfway up the body of the first bearish candle, but does not completely engulf it.
-- **Confirmation for other patterns:** A Bullish Engulfing pattern can act as a powerful confirmation for a preceding single-candle reversal signal, such as a [[Hammer]] or a [[Dragonfly_Doji]].
-- **Follow-through:** A Bullish Engulfing pattern is often the first two candles of a [[Three_White_Soldiers]] pattern, which would provide extremely strong confirmation of the new uptrend.
+- **Confirmation for other patterns:** A Bullish Engulfing pattern can act as a powerful confirmation for a preceding single-candle reversal signal, such as a [[Hammer]] or a [[DragonflyDoji]].
+- **Follow-through:** A Bullish Engulfing pattern is often the first two candles of a [[ThreeWhiteSoldiers]] pattern, which would provide extremely strong confirmation of the new uptrend.

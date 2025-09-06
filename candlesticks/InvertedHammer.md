@@ -28,4 +28,4 @@ The Inverted Hammer's significance comes from its shape and its position after a
 
 - **Shooting Star:** The Inverted Hammer is visually identical to the [[Shooting Star]]. Their meanings are opposite because of the preceding trend. The Inverted Hammer is a bullish signal in a downtrend, while the [[Shooting Star]] is a bearish signal in an uptrend.
 - **Hammer:** The [[Hammer]] is the "right-side-up" version of the Inverted Hammer. Both are bullish reversal signals that appear in downtrends. The [[Hammer]] is generally considered a stronger signal because it shows buyers successfully rejecting lower prices and closing near the high.
-- **Confirmation:** The Inverted Hammer requires a bullish confirmation candle on the following day. This could be a long white candle, a gap up, or a pattern like a [[Bullish_Engulfing_Pattern]]. Without confirmation, it is a weak signal.
+- **Confirmation:** The Inverted Hammer requires a bullish confirmation candle on the following day. This could be a long white candle, a gap up, or a pattern like a [[BullishEngulfingPattern]]. Without confirmation, it is a weak signal.

@@ -28,6 +28,6 @@ The story it tells is one of a steady and decisive takeover by the bulls.
 
 The Three White Soldiers pattern is a confirmation pattern that often follows other reversal signals.
 
-- **Three Black Crows:** This is the direct bearish counterpart. [[Three_Black_Crows]] is a powerful bearish reversal pattern consisting of three long bearish candles.
-- **Confirmation for other patterns:** The Three White Soldiers can act as a powerful confirmation for earlier, more tentative bullish reversal signals like a [[Hammer]], a [[Doji]], or a [[Bullish_Engulfing_Pattern]]. If one of those patterns is followed by the Three White Soldiers, the bullish outlook is significantly strengthened.
+- **Three Black Crows:** This is the direct bearish counterpart. [[ThreeBlackCrows]] is a powerful bearish reversal pattern consisting of three long bearish candles.
+- **Confirmation for other patterns:** The Three White Soldiers can act as a powerful confirmation for earlier, more tentative bullish reversal signals like a [[Hammer]], a [[Doji]], or a [[BullishEngulfingPattern]]. If one of those patterns is followed by the Three White Soldiers, the bullish outlook is significantly strengthened.
 - **Advance Block:** A variation of this pattern is the **Advance Block**. It looks similar, but the bodies of the second and third candles are progressively smaller, and they may have longer upper shadows. This indicates that the buying pressure is struggling to continue, and the rally might be losing momentum.
