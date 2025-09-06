@@ -1,6 +1,6 @@
 # Piercing Pattern
 
-![[../images/piercing_pattern.png]]
+![[piercing_pattern.png]]
 
 The Piercing Pattern is a two-candle bullish reversal pattern that occurs at the bottom of a downtrend. It signals that the selling pressure may be ending and a potential reversal to the upside is imminent.
 

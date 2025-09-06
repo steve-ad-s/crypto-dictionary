@@ -1,6 +1,6 @@
 # Evening Star
 
-![[../images/Figure 3.23 - Evening Star.png]]
+![[Figure 3.23 - Evening Star.png]]
 
 The Evening Star is a three-candle bearish reversal pattern that appears at the top of an uptrend. It is a powerful signal that warns of a potential peak and a shift in momentum from buyers to sellers.
 
@@ -9,7 +9,7 @@ The Evening Star is a three-candle bearish reversal pattern that appears at the 
 The pattern unfolds like a story in three parts, showing the transition from bullish dominance to a bearish takeover:
 
 1.  **First Candle (Bullish):** A long white/green candle shows that the uptrend is strong and buyers are in full control.
-2.  **Second Candle (Indecision):** A small-bodied candle (a [[Spinning Top]] or a [[Doji]]) that gaps up from the first candle. This gap up is the last gasp of the bullish move. The small body indicates that buyers could not push the price much higher, and there is a state of indecision. The buying momentum is fading.
+2.  **Second Candle (Indecision):** A small-bodied candle (a [[Spinning_Top]] or a [[Doji]]) that gaps up from the first candle. This gap up is the last gasp of the bullish move. The small body indicates that buyers could not push the price much higher, and there is a state of indecision. The buying momentum is fading.
 3.  **Third Candle (Bearish):** A long black/red candle that closes well into the body of the first candle. This candle confirms that sellers have seized control and are aggressively pushing the price down, erasing a significant portion of the gains from the first day.
 
 - **Confirmation:** The pattern is considered confirmed when the price breaks below the low of the third candle. The deeper the third candle closes into the first candle's body, the more bearish the signal.

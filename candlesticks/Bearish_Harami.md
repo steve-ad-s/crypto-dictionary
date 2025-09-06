@@ -1,6 +1,6 @@
 # Bearish Harami
 
-![[../images/Figure 3.27 - Bearish Harami.png]]
+![[Figure 3.27 - Bearish Harami.png]]
 
 The Bearish Harami is a two-candle bearish reversal pattern. The word "Harami" is an old Japanese word for "pregnant," and the pattern is so named because a large bullish candle is followed by a smaller bearish candle, resembling a pregnant woman.
 

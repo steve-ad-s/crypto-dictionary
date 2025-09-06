@@ -1,6 +1,6 @@
 # Hanging Man
 
-![[../images/Figure 3.17 - Hanging Man.png]]
+![[Figure 3.17 - Hanging Man.png]]
 
 The Hanging Man is a single-candle bearish reversal pattern that occurs at the top of an uptrend. It is visually identical to the Hammer pattern but has different implications due to its position in the trend.
 

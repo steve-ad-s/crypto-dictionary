@@ -1,6 +1,6 @@
 # Doji
 
-![[../images/Figure 3.18 - Doji.png]]
+![[Figure 3.18 - Doji.png]]
 
 A Doji is a unique candle that signifies indecision or a potential turning point in the market. It is formed when the opening and closing prices of a security are virtually equal. The candle resembles a cross, inverted cross, or plus sign.
 

@@ -1,6 +1,6 @@
 # Marubozu
 
-![[../images/Figure 3.30 - Marubozu.png]]
+![[Figure 3.30 - Marubozu.png]]
 
 The Marubozu is a single-candle pattern that represents the strongest and most decisive price action. "Marubozu" means "bald" or "shaved head" in Japanese, which refers to the candle's lack of shadows. It is a full-bodied candle with no upper or lower wicks.
 

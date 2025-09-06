@@ -1,6 +1,6 @@
 # Three Outside Down
 
-![[../images/Three Outside Up - Down.png]]
+![[Three Outside Up - Down.png]]
 
 The Three Outside Down is a three-candle bearish reversal pattern. It is a stronger confirmation of a market top than the [[Bearish Engulfing Pattern]] on its own.
 

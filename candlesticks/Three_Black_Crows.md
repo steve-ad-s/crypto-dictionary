@@ -1,6 +1,6 @@
 # Three Black Crows
 
-![[../images/Figure 3.29 - Three Black Crows.png]]
+![[Figure 3.29 - Three Black Crows.png]]
 
 The Three Black Crows is a powerful three-candle bearish reversal pattern. It is considered a strong and reliable signal of a potential top and the beginning of a new downtrend.
 

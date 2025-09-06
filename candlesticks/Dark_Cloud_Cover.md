@@ -1,6 +1,6 @@
 # Dark Cloud Cover
 
-![[../images/dark_cloud_cover.png]]
+![[dark_cloud_cover.png]]
 
 The Dark Cloud Cover is a two-candle bearish reversal pattern that appears at the top of an uptrend. It indicates a potential shift in momentum from buyers to sellers and warns of a possible price decline.
 

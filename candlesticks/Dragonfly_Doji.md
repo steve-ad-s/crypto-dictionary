@@ -1,6 +1,6 @@
 # Dragonfly Doji
 
-![[../images/Figure 3.20 - Dragonfly Doji.png]]
+![[Figure 3.20 - Dragonfly Doji.png]]
 
 The Dragonfly Doji is a significant single-candle bullish reversal pattern. It is a type of [[Doji]] where the open, high, and close prices are the same (or very close), and there is a long lower shadow. It has little to no upper shadow.
 

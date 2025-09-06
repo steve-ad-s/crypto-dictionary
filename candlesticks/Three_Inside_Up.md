@@ -1,6 +1,6 @@
 # Three Inside Up
 
-![[../images/Three inside Up - Down.png]]
+![[Three inside Up - Down.png]]
 
 The Three Inside Up is a three-candle bullish reversal pattern. It is a more reliable confirmation of a reversal than the [[Bullish Harami]] pattern alone.
 

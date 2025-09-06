@@ -1,6 +1,6 @@
 # Bearish Engulfing Pattern
 
-![[../images/Figure 3.25 - Bearish Engulfing Pattern.png]]
+![[Figure 3.25 - Bearish Engulfing Pattern.png]]
 
 The Bearish Engulfing pattern is a two-candle bearish reversal pattern that signals a potential top in the market and a shift in momentum from buyers to sellers.
 

@@ -1,6 +1,6 @@
 # Bullish Abandoned Baby
 
-![[../images/Abandoned Baby (Bullish & Bearish).png]]
+![[Abandoned Baby (Bullish & Bearish).png]]
 
 The Bullish Abandoned Baby is a very rare but extremely powerful three-candle bullish reversal pattern. It is considered one of the most reliable reversal signals in all of candlestick charting.
 

@@ -1,6 +1,6 @@
 # Three Outside Up
 
-![[../images/Three Outside Up - Down.png]]
+![[Three Outside Up - Down.png]]
 
 The Three Outside Up is a three-candle bullish reversal pattern. It is an even stronger confirmation of a reversal than the [[Bullish Engulfing Pattern]] alone.
 

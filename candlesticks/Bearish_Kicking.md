@@ -1,6 +1,6 @@
 # Bearish Kicking
 
-![[../images/Kicking (Bullish & Bearish).png]]
+![[Kicking (Bullish & Bearish).png]]
 
 The Bearish Kicking pattern is a very rare but extremely powerful two-candle bearish reversal pattern. It signals a sudden and dramatic shift in market sentiment from bullish to bearish.
 

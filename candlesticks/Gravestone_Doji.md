@@ -1,6 +1,6 @@
 # Gravestone Doji
 
-![[../images/Figure 3.21 - Gravestone Doji.png]]
+![[Figure 3.21 - Gravestone Doji.png]]
 
 The Gravestone Doji is a significant single-candle bearish reversal pattern. It is a specific type of [[Doji]] where the open, low, and close prices are the same (or very close), and there is a long upper shadow. It has little to no lower shadow.
 

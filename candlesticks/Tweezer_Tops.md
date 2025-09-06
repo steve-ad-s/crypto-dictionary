@@ -1,6 +1,6 @@
 # Tweezer Tops
 
-![[../images/tweezer Tops and Bottoms.png]]
+![[tweezer Tops and Bottoms.png]]
 
 The Tweezer Top is a two-candle (or sometimes multi-candle) bearish reversal pattern that occurs at the top of an uptrend. The pattern is formed when two or more candles have matching highs, indicating a strong level of resistance.
 

@@ -1,6 +1,6 @@
 # Evening Doji Star
 
-![[../images/Morning & Evening Doji Star.png]]
+![[Morning & Evening Doji Star.png]]
 
 The Evening Doji Star is a three-candle bearish reversal pattern. It is a more powerful and decisive version of the standard [[Evening Star]] pattern and is considered a strong signal of a potential market top.
 

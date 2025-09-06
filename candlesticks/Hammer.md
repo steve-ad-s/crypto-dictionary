@@ -1,6 +1,6 @@
 # Hammer
 
-![[../images/Figure 3.13 - Hammer.png]]
+![[Figure 3.13 - Hammer.png]]
 
 A Hammer is a bullish reversal pattern that forms during a downtrend. It is named because the market is "hammering out" a bottom.
 

@@ -1,6 +1,6 @@
 # Morning Doji Star
 
-![[../images/Morning & Evening Doji Star.png]]
+![[Morning & Evening Doji Star.png]]
 
 The Morning Doji Star is a three-candle bullish reversal pattern. It is a more powerful and decisive version of the standard [[Morning Star]] pattern.
 

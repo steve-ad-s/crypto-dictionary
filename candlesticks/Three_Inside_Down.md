@@ -1,6 +1,6 @@
 # Three Inside Down
 
-![[../images/Three inside Up - Down.png]]
+![[Three inside Up - Down.png]]
 
 The Three Inside Down is a three-candle bearish reversal pattern. It is a stronger confirmation of a market top than the [[Bearish Harami]] pattern is on its own.
 

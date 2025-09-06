@@ -1,6 +1,6 @@
 # Tweezer Bottoms
 
-![[../images/tweezer Tops and Bottoms.png]]
+![[tweezer Tops and Bottoms.png]]
 
 The Tweezer Bottom is a two-candle (or sometimes multi-candle) bullish reversal pattern that occurs at the bottom of a downtrend. The pattern is formed when two or more candles have matching lows, indicating a strong level of support.
 
